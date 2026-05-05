@@ -118,4 +118,4 @@ your-cv/
 
 ---
 
-*Template created with Claude · [See the live example →](https://natalialeaiart.github.io/cv)*
+*Template created with Claude · [See the live example →](https://natalialeaiart.github.io/CV/)*
